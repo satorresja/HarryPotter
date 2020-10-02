@@ -30,9 +30,8 @@ export default {
 @import "../node_modules/ag-grid-community/dist/styles/ag-theme-balham.css";
 
 .container-fluid {
-  margin-top: 4%;
-  padding: 6px;
-  //background-color: #DBFFD6;
+  margin-top: 1%;
+  padding: 20px;
 }
 
 h1 {

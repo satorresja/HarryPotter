@@ -1,5 +1,5 @@
 <template>
-  <div class="col-sm-4">
+  <div class="col-sm-3">
     <h1 style="text-align: left">Houses</h1>
     <ag-grid-vue
       style="width: 405px; height: 150px;"
@@ -49,7 +49,7 @@ export default {
 <style lang="scss">
 @import "../../node_modules/ag-grid-community/dist/styles/ag-grid.css";
 @import "../../node_modules/ag-grid-community/dist/styles/ag-theme-balham.css";
-.col-sm-4 {
+.col-sm-3 {
   margin-left: 10%;
 }
 </style>

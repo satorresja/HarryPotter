@@ -1,8 +1,8 @@
 <template>
-  <div class="col-sm-5">
+  <div class="col-sm-4">
     <h1 style="text-align: left">Member's names</h1>
     <ag-grid-vue
-      style="width: 600px; height: 600px;"
+      style="width: 620px; height: 620px;"
       class="ag-theme-balham"
       :columnDefs="newColumns"
       :rowData="characters"
